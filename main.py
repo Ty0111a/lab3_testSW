@@ -1,2 +1,2 @@
-print("laba 3")
+print("laba 3 in process")
 
