@@ -1,0 +1,2 @@
+print("laba 3")
+
